@@ -6,7 +6,7 @@
     <groupId>ro.lsacbucuresti</groupId>
     <artifactId>lanparty-quiz</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>lanparty-quiz</name>
     <description>Lan Party Quiz App</description>
